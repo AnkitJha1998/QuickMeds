@@ -6,13 +6,14 @@ The login Menu remains the same.
 ![image](https://user-images.githubusercontent.com/37044020/47969356-41e75600-e09c-11e8-9b41-8b5ab1564df9.png)
 
 
+This us the user menu.
 ![image](https://user-images.githubusercontent.com/37044020/47969009-9b995180-e097-11e8-8e1a-1c57b4e5ec27.png)
 
-This us the user menu.
+
+To see our prescriptions, we tap on prescriptions.
 
 ![ss23](https://user-images.githubusercontent.com/37044020/47969281-43644e80-e09b-11e8-83d7-8a3470282d94.png)
 
-To see our prescriptions, we tap on prescriptions.
 
 Doctor's app has following menu
 
