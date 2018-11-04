@@ -5,3 +5,6 @@ This is our Idea for SRM Hackathoin organised in the month of October. Here our 
 
 This us the user menu.
 
+![ss23](https://user-images.githubusercontent.com/37044020/47969249-bd480800-e09a-11e8-8bd9-183fe7368b52.png)
+
+To see our prescriptions, we tap on prescriptions.
