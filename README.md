@@ -8,7 +8,7 @@ The login Menu remains the same.
 
 
 
-This us the user menu.
+This is the user menu.
 
 ![image](https://user-images.githubusercontent.com/37044020/47969009-9b995180-e097-11e8-8e1a-1c57b4e5ec27.png)
 
